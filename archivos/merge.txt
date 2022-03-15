@@ -1,3 +1,8 @@
+
 juan sebastian zapata echeverri 
 19 años
 mi aspiracion con la materia es poder comprender de una manera mucho mas profunda poo para aplicar esos conceptos mas adelante en mi desarrollo profesional.
+
+ahora pude hacer el commit correspondiente, gracias a que habia un archivo dentro de la carpeta, es decir, esta no estaba vacia.
+
+debemos tener cuidado pues las versiones entran en conflicto.
